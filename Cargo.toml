@@ -1,0 +1,7 @@
+[package]
+name = "cronrs"
+version = "0.1.0"
+authors = ["abluchet <abluchet@ds-restauration.com>"]
+
+[dependencies]
+combine = "3.4.0"
